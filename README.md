@@ -2,7 +2,7 @@
 ook? ook.
 
 |Brainfuck|Ook!|Description|
-|-|-|-|-|
+|-|-|-|
 |>|Ook. Ook?|Move the pointer to the right|
 |<|Ook? Ook.|Move the pointer to the left|
 |+|Ook. Ook.|Increment the memory cell under the pointer|
